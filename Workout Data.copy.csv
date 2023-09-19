@@ -1,0 +1,241 @@
+﻿Workout Type,Day of the Week,Date,Start Time,End Time,Duration (min),Duration,AS,Active Energy (kcal),Avg Heart Rate (bpm),Step Count (count)
+Functional Strength Training,Monday,"Monday, July 31, 2023",12:10 PM,1:29 PM,79.03,1:19:02 AM,706.34,529.37,112.77,1852
+Walking,Saturday,"Saturday, July 29, 2023",6:48 PM,7:05 PM,17.20,12:17:12 AM,140.45,105.77,100.29,882
+Walking,Friday,"Friday, July 28, 2023",6:48 PM,7:06 PM,17.77,12:17:46 AM,151.24,115.63,106.24,1038
+Functional Strength Training,Friday,"Friday, July 28, 2023",11:54 AM,1:42 PM,108.38,1:48:23 AM,853.93,627.98,104.12,1864
+Walking,Thursday,"Thursday, July 27, 2023",7:16 PM,7:35 PM,18.23,12:18:14 AM,143.18,105.44,106.32,1509
+Stair Climbing,Thursday,"Thursday, July 27, 2023",1:02 PM,1:14 PM,11.67,12:11:40 AM,209.43,163.03,152.57,299
+Functional Strength Training,Thursday,"Thursday, July 27, 2023",11:47 AM,1:02 PM,74.60,1:14:36 AM,691.29,545.21,120.62,1381
+Walking,Wednesday,"Wednesday, July 26, 2023",7:12 PM,7:28 PM,16.47,12:16:28 AM,128.85,95.73,105.77,1689
+Walking,Wednesday,"Wednesday, July 26, 2023",11:43 AM,11:58 AM,14.83,12:14:50 AM,134.54,78.26,125.91,1488
+Functional Strength Training,Wednesday,"Wednesday, July 26, 2023",10:27 AM,11:43 AM,76.15,1:16:09 AM,705.5,556.68,121.71,1743
+Walking,Tuesday,"Tuesday, July 25, 2023",7:32 PM,7:51 PM,18.70,12:18:42 AM,148.08,107.62,102.35,1864
+Running,Tuesday,"Tuesday, July 25, 2023",12:55 PM,1:05 PM,10.67,12:10:40 AM,171.87,127.84,140.89,1009
+Functional Strength Training,Tuesday,"Tuesday, July 25, 2023",11:43 AM,12:54 PM,71.77,1:11:46 AM,705.59,565.07,123.61,2074
+Walking,Monday,"Monday, July 24, 2023",6:54 PM,7:11 PM,16.97,12:16:58 AM,143.77,109.51,99.88,1777
+Stair Climbing,Monday,"Monday, July 24, 2023",12:53 PM,1:06 PM,12.83,12:12:50 AM,228.05,178.49,152.13,237
+Functional Strength Training,Monday,"Monday, July 24, 2023",11:39 AM,12:53 PM,73.38,1:13:23 AM,686.02,542.68,121.73,1436
+Walking,Sunday,"Sunday, July 23, 2023",7:56 PM,8:16 PM,20.43,12:20:26 AM,148,103.61,107.15,2007
+Walking,Saturday,"Saturday, July 22, 2023",7:56 PM,8:13 PM,17.27,12:17:16 AM,141.54,105.08,111.87,1897
+Walking,Friday,"Friday, July 21, 2023",6:56 PM,7:14 PM,18.08,12:18:05 AM,155.62,116.53,109.6,1913
+Stair Climbing,Friday,"Friday, July 21, 2023",12:58 PM,1:09 PM,11.55,12:11:33 AM,186.53,140.62,138.26,195
+Functional Strength Training,Friday,"Friday, July 21, 2023",11:49 AM,12:58 PM,68.82,1:08:49 AM,556.54,421.83,107.88,1711
+Walking,Thursday,"Thursday, July 20, 2023",6:47 PM,7:06 PM,18.63,12:18:38 AM,141.18,103.93,102.89,1917
+Stair Climbing,Thursday,"Thursday, July 20, 2023",1:02 PM,1:11 PM,9.00,12:09:00 AM,160.58,118.49,147.34,135
+Functional Strength Training,Thursday,"Thursday, July 20, 2023",11:44 AM,1:01 PM,77.73,1:17:44 AM,707.54,555.32,120.97,1706
+Walking,Wednesday,"Wednesday, July 19, 2023",7:00 PM,7:14 PM,14.05,12:14:03 AM,97.74,67.29,100.08,1269
+Functional Strength Training,Wednesday,"Wednesday, July 19, 2023",11:46 AM,12:59 PM,73.47,1:13:28 AM,786.3,618.11,130.96,2009
+Walking,Tuesday,"Tuesday, July 18, 2023",6:47 PM,7:07 PM,19.62,12:19:37 AM,126.87,88.04,97.78,1913
+Functional Strength Training,Tuesday,"Tuesday, July 18, 2023",11:35 AM,1:21 PM,105.37,1:45:22 AM,989.38,760.13,119.57,2744
+Walking,Monday,"Monday, July 17, 2023",7:00 PM,7:17 PM,17.02,12:17:01 AM,130.22,92.79,104.44,1714
+Stair Climbing,Monday,"Monday, July 17, 2023",12:51 PM,1:02 PM,11.15,12:11:09 AM,205.05,158.62,156.12,164
+Functional Strength Training,Monday,"Monday, July 17, 2023",11:35 AM,12:50 PM,75.42,1:15:25 AM,690.34,542.69,122.53,1876
+Walking,Friday,"Friday, July 14, 2023",7:08 PM,7:26 PM,18.37,12:18:22 AM,143.16,104.04,104.72,1899
+Stair Climbing,Friday,"Friday, July 14, 2023",1:17 PM,1:28 PM,11.60,12:11:36 AM,187.28,142.83,140.47,263
+Functional Strength Training,Friday,"Friday, July 14, 2023",12:05 PM,1:17 PM,72.00,1:12:00 AM,520.93,379.99,99.58,1787
+Walking,Thursday,"Thursday, July 13, 2023",7:04 PM,7:23 PM,19.13,12:19:08 AM,141.47,101.11,99.25,1874
+Walking,Thursday,"Thursday, July 13, 2023",12:46 PM,12:56 PM,10.43,12:10:26 AM,171.11,122.92,139.8,991
+Functional Strength Training,Thursday,"Thursday, July 13, 2023",11:36 AM,12:45 PM,69.18,1:09:11 AM,616.97,481.43,117.74,1896
+Walking,Wednesday,"Wednesday, July 12, 2023",6:48 PM,7:09 PM,20.75,12:20:45 AM,161.75,117.73,101.12,2057
+Walking,Wednesday,"Wednesday, July 12, 2023",12:44 PM,12:55 PM,11.05,12:11:03 AM,143.47,95.13,121.37,1138
+Functional Strength Training,Wednesday,"Wednesday, July 12, 2023",11:32 AM,12:44 PM,71.82,1:11:49 AM,637.02,496.33,113.21,2158
+Walking,Tuesday,"Tuesday, July 11, 2023",6:50 PM,7:06 PM,15.28,12:15:17 AM,99.62,68.17,97.46,1413
+Functional Strength Training,Tuesday,"Tuesday, July 11, 2023",11:32 AM,12:52 PM,80.33,1:20:20 AM,793.48,614.48,123.63,2297
+Functional Strength Training,Monday,"Monday, July 10, 2023",11:34 AM,1:01 PM,86.72,1:26:43 AM,804.98,609.6,120.78,2057
+Walking,Saturday,"Saturday, July 8, 2023",1:56 PM,2:37 PM,40.43,12:40:26 AM,281.85,180.25,98.7,3984
+Functional Strength Training,Friday,"Friday, July 7, 2023",11:51 AM,1:06 PM,75.27,1:15:16 AM,663.02,493.09,117.28,1533
+Functional Strength Training,Thursday,"Thursday, July 6, 2023",11:57 AM,1:20 PM,82.60,1:22:36 AM,777.51,596.37,118.92,1528
+Functional Strength Training,Wednesday,"Wednesday, July 5, 2023",11:39 AM,12:57 PM,78.08,1:18:05 AM,717.4,541.66,117.15,1553
+Functional Strength Training,Tuesday,"Tuesday, July 4, 2023",11:37 AM,12:56 PM,78.97,1:18:58 AM,696.23,521.31,117.36,1766
+Functional Strength Training,Monday,"Monday, July 3, 2023",12:53 PM,2:01 PM,67.48,1:07:29 AM,635.12,480.97,120.05,1413
+Functional Strength Training,Friday,"Friday, June 30, 2023",11:34 AM,1:02 PM,88.15,1:28:09 AM,814.66,619.31,118.55,2002
+Functional Strength Training,Thursday,"Thursday, June 29, 2023",11:43 AM,1:08 PM,84.88,1:24:53 AM,824.16,635.31,120.04,2016
+Functional Strength Training,Wednesday,"Wednesday, June 28, 2023",11:25 AM,12:40 PM,74.68,1:14:41 AM,754.49,583.09,121.33,1569
+Functional Strength Training,Tuesday,"Tuesday, June 27, 2023",11:50 AM,1:06 PM,75.97,1:15:58 AM,730.84,557.78,117.91,2069
+Functional Strength Training,Monday,"Monday, June 26, 2023",11:51 AM,1:16 PM,85.18,1:25:11 AM,872.32,685.33,130.92,1915
+Functional Strength Training,Friday,"Friday, June 23, 2023",11:47 AM,1:12 PM,84.75,1:24:45 AM,763.59,597,114.93,2055
+Functional Strength Training,Thursday,"Thursday, June 22, 2023",11:38 AM,12:53 PM,75.10,1:15:06 AM,724.69,556.18,118.51,1909
+Functional Strength Training,Wednesday,"Wednesday, June 21, 2023",11:56 AM,1:11 PM,74.88,1:14:53 AM,844.74,676.87,133.78,1474
+Functional Strength Training,Tuesday,"Tuesday, June 20, 2023",12:23 PM,1:20 PM,57.70,12:57:42 AM,605.46,468.49,123.08,1953
+Functional Strength Training,Monday,"Monday, June 19, 2023",11:50 AM,1:10 PM,79.68,1:19:41 AM,840.36,662.54,128.1,2157
+Functional Strength Training,Saturday,"Saturday, June 17, 2023",11:52 AM,1:02 PM,69.77,1:09:46 AM,648.56,488.5,114.2,1632
+Hiking,Thursday,"Thursday, June 15, 2023",2:20 PM,4:12 PM,112.18,1:52:11 AM,942.6,722.4,157.95,10646
+Walking,Wednesday,"Wednesday, June 14, 2023",2:40 PM,3:38 PM,57.55,12:57:33 AM,397.05,256.88,125.85,4165
+Functional Strength Training,Tuesday,"Tuesday, June 13, 2023",11:58 AM,1:14 PM,75.98,1:15:59 AM,738.14,567.95,126.37,2202
+Functional Strength Training,Monday,"Monday, June 12, 2023",11:27 AM,12:48 PM,80.57,1:20:34 AM,933.97,753.23,141.43,2329
+Functional Strength Training,Friday,"Friday, June 9, 2023",11:43 AM,1:00 PM,76.45,1:16:27 AM,818.69,641.99,136.7,2111
+Functional Strength Training,Thursday,"Thursday, June 8, 2023",11:44 AM,12:59 PM,74.87,1:14:52 AM,768.29,600.18,129.07,2025
+Functional Strength Training,Wednesday,"Wednesday, June 7, 2023",11:49 AM,1:00 PM,71.12,1:11:07 AM,832.43,669.97,137.18,1609
+Functional Strength Training,Tuesday,"Tuesday, June 6, 2023",11:43 AM,1:02 PM,79.27,1:19:16 AM,891.02,713.24,135.13,2003
+Functional Strength Training,Monday,"Monday, June 5, 2023",11:29 AM,12:58 PM,88.67,1:28:40 AM,953.22,757.84,137.05,1960
+Functional Strength Training,Friday,"Friday, June 2, 2023",11:13 AM,12:41 PM,87.83,1:27:50 AM,797.81,601.54,118.28,1847
+Functional Strength Training,Thursday,"Thursday, June 1, 2023",11:43 AM,1:18 PM,94.52,1:34:31 AM,917.28,716.93,120.26,1890
+Functional Strength Training,Wednesday,"Wednesday, May 31, 2023",11:59 AM,1:25 PM,85.93,1:25:56 AM,858.63,667.21,122.58,1876
+Functional Strength Training,Tuesday,"Tuesday, May 30, 2023",11:54 AM,1:24 PM,89.60,1:29:36 AM,931.32,735.44,128.58,2053
+Functional Strength Training,Monday,"Monday, May 29, 2023",11:46 AM,1:10 PM,84.28,1:24:17 AM,975.68,787.07,140.19,1890
+Functional Strength Training,Friday,"Friday, May 26, 2023",11:49 AM,1:19 PM,90.12,1:30:07 AM,798.89,598.56,110.08,1827
+Functional Strength Training,Thursday,"Thursday, May 25, 2023",11:54 AM,1:20 PM,86.22,1:26:13 AM,848,657.24,116.43,1700
+Functional Strength Training,Wednesday,"Wednesday, May 24, 2023",11:56 AM,1:07 PM,71.27,1:11:16 AM,752.76,590.66,121.21,1600
+Functional Strength Training,Tuesday,"Tuesday, May 23, 2023",11:45 AM,1:09 PM,84.37,1:24:22 AM,880.17,682.81,121.19,1517
+Functional Strength Training,Monday,"Monday, May 22, 2023",11:42 AM,1:06 PM,83.63,1:23:38 AM,859.57,674.61,124.07,1707
+Functional Strength Training,Friday,"Friday, May 19, 2023",11:57 AM,1:09 PM,71.62,1:11:37 AM,662.13,500.08,111.05,1448
+Functional Strength Training,Thursday,"Thursday, May 18, 2023",11:52 AM,1:17 PM,85.25,1:25:15 AM,841.47,656.06,115.56,1709
+Functional Strength Training,Wednesday,"Wednesday, May 17, 2023",11:55 AM,1:07 PM,72.25,1:12:15 AM,811.33,647.69,133.3,1769
+Functional Strength Training,Tuesday,"Tuesday, May 16, 2023",11:53 AM,1:16 PM,83.40,1:23:24 AM,896.11,707.63,122.86,1957
+Functional Strength Training,Monday,"Monday, May 15, 2023",11:45 AM,1:06 PM,81.42,1:21:25 AM,912.68,731.09,130.83,1835
+Functional Strength Training,Friday,"Friday, May 12, 2023",12:08 PM,1:29 PM,81.05,1:21:03 AM,752.68,570.82,109.76,1846
+Functional Strength Training,Thursday,"Thursday, May 11, 2023",11:27 AM,12:45 PM,78.77,1:18:46 AM,763.46,587.01,111.2,2028
+Functional Strength Training,Wednesday,"Wednesday, May 10, 2023",11:57 AM,1:03 PM,65.38,1:05:23 AM,695.63,566.99,121.89,793
+Functional Strength Training,Tuesday,"Tuesday, May 9, 2023",10:58 AM,12:37 PM,99.65,1:39:39 AM,996.46,779.15,110.11,1776
+Functional Strength Training,Monday,"Monday, May 8, 2023",11:34 AM,12:59 PM,84.95,1:24:57 AM,865.89,677.61,114.18,2104
+Functional Strength Training,Wednesday,"Wednesday, April 26, 2023",11:35 AM,12:49 PM,74.07,1:14:04 AM,722.97,554.87,114.16,1712
+Functional Strength Training,Tuesday,"Tuesday, April 25, 2023",11:38 AM,1:09 PM,90.75,1:30:45 AM,928.93,728.3,121.97,1715
+Functional Strength Training,Monday,"Monday, April 24, 2023",11:39 AM,1:06 PM,86.67,1:26:40 AM,875.79,682.44,126.2,1730
+Functional Strength Training,Friday,"Friday, April 21, 2023",11:37 AM,12:58 PM,81.52,1:21:31 AM,746.49,565.66,117.63,1780
+Functional Strength Training,Thursday,"Thursday, April 20, 2023",11:39 AM,1:19 PM,100.15,1:40:09 AM,930.77,709.28,111.67,1720
+Functional Strength Training,Wednesday,"Wednesday, April 19, 2023",11:41 AM,12:53 PM,71.77,1:11:46 AM,785.14,621.33,126.56,1520
+Functional Strength Training,Tuesday,"Tuesday, April 18, 2023",11:37 AM,1:04 PM,87.55,1:27:33 AM,910.59,716.6,123.99,1475
+Functional Strength Training,Monday,"Monday, April 17, 2023",11:33 AM,12:57 PM,84.15,1:24:09 AM,898.49,711.32,121.36,1512
+Functional Strength Training,Friday,"Friday, April 14, 2023",11:42 AM,1:09 PM,87.33,1:27:20 AM,676.55,531.55,122.2,1757
+Hiking,Tuesday,"Tuesday, April 11, 2023",9:52 AM,12:23 PM,151.10,2:31:06 AM,786.93,554.32,144.98,10309
+Hiking,Tuesday,"Tuesday, April 11, 2023",7:51 AM,8:27 AM,36.03,12:36:02 AM,184.24,112.06,157.19,798
+Hiking,Tuesday,"Tuesday, April 11, 2023",6:36 AM,7:21 AM,45.57,12:45:34 AM,384.63,297.39,160.86,3108
+Functional Strength Training,Thursday,"Thursday, April 6, 2023",11:38 AM,12:57 PM,78.58,1:18:35 AM,598.68,465.23,124.54,1361
+Functional Strength Training,Wednesday,"Wednesday, April 5, 2023",11:32 AM,1:29 PM,117.18,1:57:11 AM,815.64,636.78,119.09,2280
+Functional Strength Training,Tuesday,"Tuesday, April 4, 2023",11:46 AM,1:14 PM,88.25,1:28:15 AM,647.52,500.55,118.15,1204
+Running,Monday,"Monday, April 3, 2023",1:04 PM,1:07 PM,2.83,12:02:50 AM,29.12,6.03,125.19,92
+Functional Strength Training,Monday,"Monday, April 3, 2023",11:39 AM,1:04 PM,84.48,1:24:29 AM,639.2,515.7,127.43,1466
+Functional Strength Training,Friday,"Friday, March 31, 2023",11:08 AM,12:39 PM,71.43,1:11:26 AM,530.93,382.09,112.84,1377
+Functional Strength Training,Thursday,"Thursday, March 30, 2023",11:49 AM,1:11 PM,81.87,1:21:52 AM,595.36,465.61,124.35,1231
+Functional Strength Training,Wednesday,"Wednesday, March 29, 2023",11:57 AM,1:11 PM,73.93,1:13:56 AM,569.2,442.53,122.75,1461
+Functional Strength Training,Tuesday,"Tuesday, March 28, 2023",11:50 AM,1:24 PM,93.58,1:33:35 AM,655.17,508.33,116.67,1276
+Functional Strength Training,Monday,"Monday, March 27, 2023",11:39 AM,1:11 PM,91.95,1:31:57 AM,734.02,580.22,128.68,1702
+Functional Strength Training,Friday,"Friday, March 24, 2023",11:32 AM,1:00 PM,87.82,1:27:49 AM,581.51,442.99,118.45,1742
+Functional Strength Training,Thursday,"Thursday, March 23, 2023",11:31 AM,1:00 PM,89.05,1:29:03 AM,594.35,446.54,111.07,1925
+Functional Strength Training,Wednesday,"Wednesday, March 22, 2023",11:56 AM,1:12 PM,76.52,1:16:31 AM,573.44,461.03,124.83,1668
+Functional Strength Training,Tuesday,"Tuesday, March 21, 2023",11:41 AM,1:06 PM,85.33,1:25:20 AM,674.13,548.82,128.17,1311
+Functional Strength Training,Monday,"Monday, March 20, 2023",11:38 AM,1:10 PM,91.52,1:31:31 AM,707.93,563.19,129.72,1465
+Functional Strength Training,Friday,"Friday, March 17, 2023",11:49 AM,1:17 PM,88.00,1:28:00 AM,564.23,442.89,117.99,1864
+Functional Strength Training,Thursday,"Thursday, March 16, 2023",11:35 AM,1:01 PM,85.38,1:25:23 AM,566.2,429.19,111.75,1676
+Functional Strength Training,Wednesday,"Wednesday, March 15, 2023",11:46 AM,1:05 PM,79.27,1:19:16 AM,620.66,494.36,124.27,1166
+Functional Strength Training,Tuesday,"Tuesday, March 14, 2023",11:47 AM,1:16 PM,89.43,1:29:26 AM,700.16,551.6,122.63,1778
+Functional Strength Training,Monday,"Monday, March 13, 2023",11:39 AM,1:08 PM,88.50,1:28:30 AM,699.3,558.6,131.31,1755
+Functional Strength Training,Friday,"Friday, March 10, 2023",11:43 AM,1:11 PM,87.62,1:27:37 AM,568.71,429.52,110.35,1672
+Functional Strength Training,Thursday,"Thursday, March 9, 2023",11:28 AM,12:45 PM,77.60,1:17:36 AM,561.26,454.68,118.68,1571
+Functional Strength Training,Wednesday,"Wednesday, March 8, 2023",11:45 AM,1:04 PM,79.20,1:19:12 AM,632.62,509,126.87,1606
+Functional Strength Training,Tuesday,"Tuesday, March 7, 2023",11:33 AM,12:48 PM,74.85,1:14:51 AM,572.12,451.85,119.45,1453
+Functional Strength Training,Monday,"Monday, March 6, 2023",11:30 AM,12:54 PM,84.03,1:24:02 AM,613.14,480.43,119.11,1855
+Functional Strength Training,Friday,"Friday, March 3, 2023",11:27 AM,12:53 PM,86.70,1:26:42 AM,578.69,441.63,110.85,1690
+Functional Strength Training,Thursday,"Thursday, March 2, 2023",11:27 AM,12:42 PM,74.93,1:14:56 AM,565.93,444.2,119.13,1337
+Functional Strength Training,Wednesday,"Wednesday, March 1, 2023",11:27 AM,12:41 PM,73.97,1:13:58 AM,624.96,505.71,130.18,1595
+Functional Strength Training,Tuesday,"Tuesday, February 28, 2023",11:27 AM,12:46 PM,78.92,1:18:55 AM,636.1,503.67,122.4,1525
+Functional Strength Training,Monday,"Monday, February 27, 2023",11:19 AM,12:35 PM,75.73,1:15:44 AM,633.66,511.18,131.43,1078
+Walking,Saturday,"Saturday, February 25, 2023",11:16 AM,12:12 PM,56.53,12:56:32 AM,260.26,164.83,103.38,3887
+Functional Strength Training,Friday,"Friday, February 24, 2023",11:26 AM,12:52 PM,86.33,1:26:20 AM,669.88,533.67,129.39,1754
+Functional Strength Training,Thursday,"Thursday, February 23, 2023",12:02 PM,1:12 PM,70.58,1:10:35 AM,593.35,477.69,128.84,1217
+Functional Strength Training,Wednesday,"Wednesday, February 22, 2023",11:52 AM,1:00 PM,68.03,1:08:02 AM,593.12,484.22,135.92,1273
+Functional Strength Training,Tuesday,"Tuesday, February 21, 2023",11:42 AM,12:59 PM,77.17,1:17:10 AM,623.24,496.44,124.23,1608
+Functional Strength Training,Monday,"Monday, February 20, 2023",11:12 AM,12:54 PM,101.38,1:41:23 AM,747.88,591.38,123.56,1704
+Walking,Sunday,"Sunday, February 19, 2023",2:16 PM,3:02 PM,45.32,12:45:19 AM,233.82,157.31,99.86,3552
+Functional Strength Training,Thursday,"Thursday, February 16, 2023",11:20 AM,12:35 PM,75.20,1:15:12 AM,583.23,455.07,123.9,1443
+Functional Strength Training,Wednesday,"Wednesday, February 15, 2023",11:46 AM,12:58 PM,71.55,1:11:33 AM,625.92,502.85,131.84,1876
+Functional Strength Training,Tuesday,"Tuesday, February 14, 2023",11:28 AM,12:51 PM,82.70,1:22:42 AM,642.45,503.32,119.77,1560
+Functional Strength Training,Monday,"Monday, February 13, 2023",11:28 AM,12:51 PM,82.93,1:22:56 AM,673.64,541.73,129.39,1469
+Functional Strength Training,Friday,"Friday, February 10, 2023",11:30 AM,1:00 PM,89.83,1:29:50 AM,614.09,473.13,113.99,1426
+Functional Strength Training,Thursday,"Thursday, February 9, 2023",11:25 AM,12:46 PM,81.52,1:21:31 AM,631.15,500.27,125.16,1412
+Functional Strength Training,Wednesday,"Wednesday, February 8, 2023",11:41 AM,1:02 PM,81.07,1:21:04 AM,643.17,516.05,127.9,1469
+Functional Strength Training,Tuesday,"Tuesday, February 7, 2023",11:19 AM,12:37 PM,78.63,1:18:38 AM,594.28,486.4,123.46,1084
+Functional Strength Training,Monday,"Monday, February 6, 2023",11:44 AM,12:57 PM,73.42,1:13:25 AM,583.07,457.54,126.73,1518
+Functional Strength Training,Friday,"Friday, February 3, 2023",11:43 AM,1:08 PM,84.85,1:24:51 AM,585.38,451.89,117.49,1548
+Functional Strength Training,Thursday,"Thursday, February 2, 2023",11:39 AM,12:50 PM,71.02,1:11:01 AM,549.35,452.31,128.33,1719
+Functional Strength Training,Wednesday,"Wednesday, February 1, 2023",11:53 AM,12:59 PM,65.53,1:05:32 AM,546.84,432.21,135.23,1372
+Functional Strength Training,Tuesday,"Tuesday, January 31, 2023",11:34 AM,12:51 PM,77.67,1:17:40 AM,617.19,494.26,125.6,1546
+Functional Strength Training,Monday,"Monday, January 30, 2023",11:30 AM,12:45 PM,75.17,1:15:10 AM,557.56,454.94,127.84,1338
+Functional Strength Training,Saturday,"Saturday, January 28, 2023",10:52 AM,12:10 PM,77.47,1:17:28 AM,572.78,451.98,126.32,2397
+Functional Strength Training,Friday,"Friday, January 27, 2023",11:48 AM,1:03 PM,74.25,1:14:15 AM,542.77,433.65,124.67,1599
+Functional Strength Training,Thursday,"Thursday, January 26, 2023",11:41 AM,12:52 PM,71.48,1:11:29 AM,580.65,482.87,137.52,1401
+Functional Strength Training,Tuesday,"Tuesday, January 24, 2023",11:45 AM,12:56 PM,71.12,1:11:07 AM,554.68,442.18,123.26,1358
+Functional Strength Training,Monday,"Monday, January 23, 2023",11:40 AM,12:47 PM,67.58,1:07:35 AM,556.18,443.68,132.3,1244
+Functional Strength Training,Saturday,"Saturday, January 21, 2023",10:57 AM,12:04 PM,67.52,1:07:31 AM,497.23,397.96,118.11,1355
+Functional Strength Training,Wednesday,"Wednesday, January 18, 2023",4:45 PM,5:50 PM,65.23,1:05:14 AM,508.95,394.44,123.61,956
+Functional Strength Training,Tuesday,"Tuesday, January 17, 2023",4:40 PM,5:50 PM,70.22,1:10:13 AM,541.27,420.91,121.62,2076
+Functional Strength Training,Monday,"Monday, January 16, 2023",11:33 AM,1:04 PM,90.55,1:30:33 AM,651.74,500.4,121.75,2177
+Functional Strength Training,Saturday,"Saturday, January 14, 2023",11:39 AM,12:42 PM,62.70,1:02:42 AM,462.93,358.57,121.16,1395
+Functional Strength Training,Wednesday,"Wednesday, January 11, 2023",4:16 PM,5:19 PM,63.57,1:03:34 AM,466.89,356.25,117.31,1589
+Functional Strength Training,Tuesday,"Tuesday, January 10, 2023",11:36 AM,1:01 PM,84.67,1:24:40 AM,629.9,494.7,124.37,1531
+Functional Strength Training,Monday,"Monday, January 9, 2023",12:23 PM,1:32 PM,68.93,1:08:56 AM,474.59,362.5,118.41,1101
+Functional Strength Training,Friday,"Friday, January 6, 2023",11:56 AM,1:14 PM,78.38,1:18:23 AM,444.12,336.29,106.92,1412
+Functional Strength Training,Thursday,"Thursday, January 5, 2023",11:42 AM,1:09 PM,86.90,1:26:54 AM,650.8,505.57,123.11,1721
+Functional Strength Training,Tuesday,"Tuesday, January 3, 2023",11:47 AM,1:22 PM,95.23,1:35:14 AM,608.51,458.84,110.43,1027
+Functional Strength Training,Monday,"Monday, January 2, 2023",11:45 AM,1:01 PM,76.95,1:16:57 AM,520.03,392.23,114.8,1143
+Functional Strength Training,Saturday,"Saturday, December 31, 2022",11:47 AM,1:14 PM,86.35,1:26:21 AM,548.39,411.49,107.73,1384
+Functional Strength Training,Thursday,"Thursday, December 29, 2022",11:41 AM,12:52 PM,70.78,1:10:47 AM,514.6,400,122.86,1286
+Functional Strength Training,Tuesday,"Tuesday, December 27, 2022",11:15 AM,12:34 PM,78.60,1:18:36 AM,597.4,472.1,125.3,1429
+Functional Strength Training,Monday,"Monday, December 26, 2022",11:48 AM,1:13 PM,85.28,1:25:17 AM,616.87,482.22,126.56,1788
+Functional Strength Training,Friday,"Friday, December 23, 2022",11:10 AM,12:23 PM,72.93,1:12:56 AM,444.62,327.27,106.87,1683
+Functional Strength Training,Thursday,"Thursday, December 22, 2022",11:46 AM,12:49 PM,63.80,1:03:48 AM,448.15,361.59,121.32,1252
+Functional Strength Training,Tuesday,"Tuesday, December 20, 2022",11:32 AM,12:48 PM,75.80,1:15:48 AM,574.25,453.65,127.01,1290
+Functional Strength Training,Monday,"Monday, December 19, 2022",11:29 AM,12:44 PM,74.48,1:14:29 AM,479.39,360.32,114.51,1376
+Functional Strength Training,Wednesday,"Wednesday, November 30, 2022",4:32 PM,5:28 PM,55.85,12:55:51 AM,464.46,369.71,128.14,1658
+Functional Strength Training,Tuesday,"Tuesday, November 29, 2022",4:51 PM,5:51 PM,60.08,1:00:05 AM,449.24,350.12,121.48,1382
+Functional Strength Training,Monday,"Monday, November 28, 2022",4:37 PM,5:37 PM,60.12,1:00:07 AM,410.92,304.77,118.28,1259
+Functional Strength Training,Saturday,"Saturday, November 26, 2022",10:44 AM,11:48 AM,63.65,1:03:39 AM,399.47,313.41,112.82,1512
+Functional Strength Training,Friday,"Friday, November 25, 2022",11:34 AM,12:39 PM,64.93,1:04:56 AM,487.12,382.46,126.63,1624
+Functional Strength Training,Tuesday,"Tuesday, November 22, 2022",11:37 AM,1:00 PM,82.78,1:22:47 AM,585.59,453.81,118.79,1425
+Functional Strength Training,Monday,"Monday, November 21, 2022",11:15 AM,12:32 PM,76.85,1:16:51 AM,517.8,394.66,120.36,1374
+Functional Strength Training,Monday,"Monday, November 7, 2022",4:17 PM,5:17 PM,59.92,12:59:55 AM,417.95,317.74,117.84,1060
+Functional Strength Training,Saturday,"Saturday, November 5, 2022",11:47 AM,12:59 PM,71.80,1:11:48 AM,412.94,314.76,102.32,1674
+Functional Strength Training,Thursday,"Thursday, November 3, 2022",4:31 PM,5:32 PM,61.55,1:01:33 AM,469.79,379.51,121.87,1800
+Functional Strength Training,Monday,"Monday, October 31, 2022",4:14 PM,5:22 PM,67.60,1:07:36 AM,449.67,338.74,109.34,1747
+Functional Strength Training,Saturday,"Saturday, October 29, 2022",11:44 AM,12:39 PM,55.55,12:55:33 AM,340.78,266.56,109.6,1037
+Functional Strength Training,Friday,"Friday, October 28, 2022",4:11 PM,5:02 PM,50.68,12:50:41 AM,411.03,317.32,122.72,1138
+Functional Strength Training,Tuesday,"Tuesday, October 25, 2022",4:30 PM,5:36 PM,59.53,12:59:32 AM,440.76,332.27,112.77,1339
+Functional Strength Training,Monday,"Monday, October 24, 2022",5:05 PM,5:59 PM,54.62,12:54:37 AM,372.5,280.3,114.61,1014
+Functional Strength Training,Saturday,"Saturday, October 22, 2022",11:52 AM,12:55 PM,63.38,1:03:23 AM,484.05,372.33,119.77,1565
+Functional Strength Training,Tuesday,"Tuesday, October 18, 2022",4:49 PM,5:51 PM,62.45,1:02:27 AM,455.69,351.57,114.74,1380
+Functional Strength Training,Monday,"Monday, October 17, 2022",4:39 PM,5:41 PM,62.42,1:02:25 AM,440.31,330.52,114.78,1147
+Functional Strength Training,Saturday,"Saturday, October 15, 2022",11:45 AM,12:45 PM,59.82,12:59:49 AM,383.02,276.25,109.76,1161
+Functional Strength Training,Thursday,"Thursday, October 13, 2022",5:07 PM,5:58 PM,51.68,12:51:41 AM,397.29,308.86,120.06,1813
+Functional Strength Training,Wednesday,"Wednesday, October 12, 2022",4:34 PM,5:42 PM,68.23,1:08:14 AM,536.71,424.87,120.05,1385
+Functional Strength Training,Monday,"Monday, October 10, 2022",4:38 PM,5:44 PM,65.35,1:05:21 AM,433.69,325.12,113.68,1725
+Functional Strength Training,Saturday,"Saturday, October 8, 2022",11:42 AM,12:49 PM,66.43,1:06:26 AM,525.01,407.72,121.32,1428
+Functional Strength Training,Tuesday,"Tuesday, October 4, 2022",4:39 PM,5:44 PM,65.45,1:05:27 AM,479.73,371.46,113.06,1650
+Functional Strength Training,Monday,"Monday, October 3, 2022",4:37 PM,5:34 PM,57.00,12:57:00 AM,388.82,285.51,107.18,1190
+Functional Strength Training,Saturday,"Saturday, October 1, 2022",11:50 AM,12:56 PM,65.22,1:05:13 AM,440.84,333.31,110.45,1187
+Functional Strength Training,Thursday,"Thursday, September 29, 2022",4:27 PM,5:24 PM,57.12,12:57:07 AM,419.91,323.75,116.03,1358
+Functional Strength Training,Wednesday,"Wednesday, September 28, 2022",4:25 PM,5:16 PM,50.48,12:50:29 AM,367.85,281.98,111.8,668
+Functional Strength Training,Monday,"Monday, September 26, 2022",4:33 PM,5:41 PM,54.77,12:54:46 AM,402.9,293.12,114.98,1342
+Functional Strength Training,Saturday,"Saturday, September 24, 2022",11:17 AM,12:22 PM,64.43,1:04:26 AM,445.6,330.42,112.33,1315
+Functional Strength Training,Thursday,"Thursday, September 22, 2022",4:25 PM,5:39 PM,74.52,1:14:31 AM,524.33,422.15,117.21,1177
+Functional Strength Training,Tuesday,"Tuesday, September 20, 2022",4:38 PM,5:48 PM,69.72,1:09:43 AM,493.11,379.9,111.84,1304
+Functional Strength Training,Monday,"Monday, September 19, 2022",4:16 PM,5:20 PM,64.05,1:04:03 AM,425.02,318.62,111.56,1545
+Functional Strength Training,Saturday,"Saturday, September 17, 2022",11:40 AM,12:41 PM,60.82,1:00:49 AM,402.94,313.72,111.65,1249
+Functional Strength Training,Thursday,"Thursday, September 15, 2022",4:43 PM,5:40 PM,57.67,12:57:40 AM,414,316.83,114.73,1152
+Functional Strength Training,Tuesday,"Tuesday, September 13, 2022",4:39 PM,5:37 PM,58.03,12:58:02 AM,410.48,313.37,111.27,1324
+Functional Strength Training,Monday,"Monday, September 12, 2022",4:53 PM,5:51 PM,57.70,12:57:42 AM,426.11,329.14,119.29,1475
+Functional Strength Training,Saturday,"Saturday, September 10, 2022",11:28 AM,12:41 PM,72.83,1:12:50 AM,443.02,325.84,104.09,1387
+Functional Strength Training,Wednesday,"Wednesday, September 7, 2022",4:28 PM,5:15 PM,46.78,12:46:47 AM,365.06,283.77,119.42,1278
+Functional Strength Training,Tuesday,"Tuesday, September 6, 2022",4:48 PM,5:47 PM,58.90,12:58:54 AM,463.53,357.44,122.01,1304
+Functional Strength Training,Monday,"Monday, September 5, 2022",11:35 AM,12:40 PM,64.90,1:04:54 AM,437.29,330.78,116,1527
+Walking,Wednesday,"Wednesday, August 24, 2022",7:30 PM,8:26 PM,28.70,12:28:42 AM,165.07,87.36,101.84,1521
+Functional Strength Training,Tuesday,"Tuesday, August 23, 2022",4:42 PM,5:50 PM,67.42,1:07:25 AM,439.32,327.35,108.61,1423
+Functional Strength Training,Monday,"Monday, August 22, 2022",5:01 PM,5:58 PM,57.12,12:57:07 AM,466.99,371.21,124.99,1129
+Walking,Sunday,"Sunday, August 21, 2022",7:17 PM,7:42 PM,24.63,12:24:38 AM,127.61,82.7,98.44,1610
+Functional Strength Training,Saturday,"Saturday, August 20, 2022",11:15 AM,12:17 PM,62.57,1:02:34 AM,416.94,311.96,111.58,1086
+Walking,Friday,"Friday, August 19, 2022",7:20 PM,7:45 PM,24.23,12:24:14 AM,122.78,71.18,103.53,1530
+Functional Strength Training,Thursday,"Thursday, August 18, 2022",4:51 PM,5:42 PM,51.38,12:51:23 AM,433.12,337.01,129.62,1294
+Walking,Wednesday,"Wednesday, August 17, 2022",5:33 PM,5:57 PM,24.77,12:24:46 AM,125.43,80.09,110.41,1569
+Functional Strength Training,Tuesday,"Tuesday, August 16, 2022",4:41 PM,5:43 PM,61.63,1:01:38 AM,500.64,391.16,132.37,1390
+Functional Strength Training,Monday,"Monday, August 15, 2022",4:45 PM,5:39 PM,53.77,12:53:46 AM,480.07,408.39,137.91,699
+Walking,Sunday,"Sunday, August 14, 2022",7:38 PM,8:02 PM,24.53,12:24:32 AM,128.17,84.29,110.49,1389
+Functional Strength Training,Tuesday,"Tuesday, August 9, 2022",4:29 PM,5:39 PM,69.77,1:09:46 AM,554.91,439.87,131.56,1259
+Functional Strength Training,Monday,"Monday, August 8, 2022",4:29 PM,5:24 PM,55.08,12:55:05 AM,441.28,347.16,130.09,1256
+Walking,Sunday,"Sunday, August 7, 2022",7:38 PM,8:02 PM,23.53,12:23:32 AM,120.14,76.46,102.23,1644
+Functional Strength Training,Saturday,"Saturday, August 6, 2022",11:36 AM,12:36 PM,59.90,12:59:54 AM,487.89,388.02,129.47,993
+Walking,Thursday,"Thursday, August 4, 2022",7:15 PM,7:39 PM,23.68,12:23:41 AM,129.17,84.09,109.12,1451
+Functional Strength Training,Thursday,"Thursday, August 4, 2022",10:12 AM,11:26 AM,74.62,1:14:37 AM,642.41,513.75,137.3,1924
+Walking,Wednesday,"Wednesday, August 3, 2022",7:45 PM,8:07 PM,21.63,12:21:38 AM,122.97,81.96,107.38,1378
+Walking,Tuesday,"Tuesday, August 2, 2022",6:48 PM,7:16 PM,28.45,12:28:27 AM,132.18,82.08,98.78,1323
+Functional Strength Training,Tuesday,"Tuesday, August 2, 2022",11:49 AM,1:35 PM,105.40,1:45:24 AM,733.32,567.56,116.69,1363
+Walking,Monday,"Monday, August 1, 2022",7:26 PM,7:49 PM,23.05,12:23:03 AM,134.28,83.94,104.62,1523
+Functional Strength Training,Monday,"Monday, August 1, 2022",11:56 AM,12:58 PM,61.42,1:01:25 AM,421.51,311.68,114.95,947
