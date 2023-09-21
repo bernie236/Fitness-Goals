@@ -14,4 +14,4 @@ I have multiple metrics tracked in the fitness data but my analysis and goals ar
 * [Article]()
 
 ### Files
-* [Workout Data.copy(1).csv](https://github.com/bernie236/Fitness-Goals/blob/main/Workout%20Data.copy%20(1).csv) is the raw data acquired from exporting the data from my Apple Fitness app.
+* [Workout Data.copy(1).csv](https://github.com/bernie236/Fitness-Goals/blob/main/Workout%20Data.copy.csv) is the raw data acquired from exporting the data from my Apple Fitness app.
