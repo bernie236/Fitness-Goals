@@ -15,3 +15,4 @@ I have multiple metrics tracked in the fitness data but my analysis and goals ar
 
 ### Files
 * [Workout Data.copy.csv](https://github.com/bernie236/Fitness-Goals/blob/main/Workout%20Data.copy.csv) is the raw data acquired from exporting the data from my Apple Fitness app.
+* [query.sql](https://github.com/bernie236/Fitness-Goals/blob/main/query.sql) is the SQL code I used in my analysis of my fitness goals. 
