@@ -11,7 +11,7 @@ I have multiple metrics tracked in the fitness data but my analysis and goals ar
 
 ### Links
 * [Tableau Dashboard](https://public.tableau.com/views/WorkoutDashboard_16911053331560/FITNESSDASHBOARD?:language=en-US&:display_count=n&:origin=viz_share_link)
-* [Full Write-Up]()
+* [Full Write-Up](https://github.com/bernie236/Fitness-Goals/blob/main/Fitness%20Goals%20Dashboard%20Write-Up.pdf)
 
 ### Files
 * [Workout Data.copy.csv](https://github.com/bernie236/Fitness-Goals/blob/main/Workout%20Data.copy.csv) is the raw data acquired from exporting the data from my Apple Fitness app.
